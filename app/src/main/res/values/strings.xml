@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin1.2</string>
+    <string name="submit">submit</string>
+    <string name="random">random</string>
+</resources>
